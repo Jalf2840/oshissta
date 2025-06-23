@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../プログラミング/project3/画像"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project3"
+	}
+}
